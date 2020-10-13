@@ -36,5 +36,8 @@
     "webpack-dev-server": "^3.10.3"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "expr-eval": "^2.0.2"
+  }
 }
